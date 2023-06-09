@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Friedrich. 
 - 👀 I’m interested in learning new things and am an aspiring software developer.
-- 🌱 I’m currently learning C, Python & Machine Learning and am a student at 42 Berlin. 
+- 🌱 I’m currently learning C, Cybersecurity & Machine Learning and am a student at 42 Berlin. 
 - 💞️ Curious for new things and love to learn. 
 - 📫 How to reach me ... f.szendzielorz @ gmail.com 
 
